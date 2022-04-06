@@ -1,0 +1,120 @@
+1 2
+0 2 overflow :
+1 1 overflow :
+1 2
+0 2 overflow :
+1 1 overflow :3 
+2 4
+00 4 overflow :
+01 1 overflow :
+10 2 overflow :
+11 3 overflow :
+2 4
+00 4 overflow :
+01 1 overflow :5 
+10 2 overflow :6 
+11 3 overflow :
+3 7
+000 4 overflow :
+001 1 overflow :
+010 2 overflow :
+011 3 overflow :
+100 4 overflow :
+101 5 overflow :
+110 6 overflow :
+111 7 overflow :
+3 8
+000 8 overflow :
+001 1 overflow :
+010 2 overflow :
+011 3 overflow :
+100 4 overflow :
+101 5 overflow :
+110 6 overflow :
+111 7 overflow :
+3 8
+000 8 overflow :
+001 1 overflow :9 
+010 2 overflow :10 
+011 3 overflow :11 
+100 4 overflow :
+101 5 overflow :
+110 6 overflow :
+111 7 overflow :
+3 8
+000 8 overflow :
+001 1 overflow :9 
+010 2 overflow :10 
+011 3 overflow :11 
+100 4 overflow :12 
+101 5 overflow :
+110 6 overflow :
+111 7 overflow :
+4 13
+0000 8 overflow :
+0001 1 overflow :
+0010 2 overflow :
+0011 3 overflow :
+0100 4 overflow :
+0101 5 overflow :
+0110 6 overflow :
+0111 7 overflow :
+1000 8 overflow :
+1001 9 overflow :
+1010 10 overflow :
+1011 11 overflow :
+1100 12 overflow :
+1101 13 overflow :
+1110 6 overflow :
+1111 7 overflow :
+4 14
+0000 8 overflow :
+0001 1 overflow :
+0010 2 overflow :
+0011 3 overflow :
+0100 4 overflow :
+0101 5 overflow :
+0110 6 overflow :
+0111 7 overflow :
+1000 8 overflow :
+1001 9 overflow :
+1010 10 overflow :
+1011 11 overflow :
+1100 12 overflow :
+1101 13 overflow :
+1110 14 overflow :
+1111 7 overflow :
+4 15
+0000 8 overflow :
+0001 1 overflow :
+0010 2 overflow :
+0011 3 overflow :
+0100 4 overflow :
+0101 5 overflow :
+0110 6 overflow :
+0111 7 overflow :
+1000 8 overflow :
+1001 9 overflow :
+1010 10 overflow :
+1011 11 overflow :
+1100 12 overflow :
+1101 13 overflow :
+1110 14 overflow :
+1111 15 overflow :
+4 16
+0000 16 overflow :
+0001 1 overflow :
+0010 2 overflow :
+0011 3 overflow :
+0100 4 overflow :
+0101 5 overflow :
+0110 6 overflow :
+0111 7 overflow :
+1000 8 overflow :
+1001 9 overflow :
+1010 10 overflow :
+1011 11 overflow :
+1100 12 overflow :
+1101 13 overflow :
+1110 14 overflow :
+1111 15 overflow :
