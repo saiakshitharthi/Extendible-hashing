@@ -61,7 +61,7 @@ Directory::Directory(int glob, int cap, int m)
     int sz = (1 << glob);
     vector<Bucket *> temp_dir(sz, nullptr);
     dir = temp_dir;
-
+    new abcd;
     for (int i = 0; i < sz; i++)
     {
         auto b = new Bucket(cap, global_depth);
